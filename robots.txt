@@ -1,0 +1,9 @@
+# valentinpletnev.com
+# Everything on this site is public. It is meant to be read, indexed, quoted
+# and used in answers, by people and by AI systems alike.
+
+User-agent: *
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+Sitemap: https://valentinpletnev.com/sitemap.xml
