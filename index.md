@@ -69,14 +69,21 @@ I invest in private rounds through Valeyo Capital and am always looking for inte
 
 - 2024: The Interop, interview: [Why Cosmos Should Embrace EVM and Bitcoin DeFi](https://www.ivoox.com/en/why-cosmos-should-embrace-evm-and-bitcoin-defi-audios-mp3_rf_136121487_1.html)
 - 2024: CoinDesk, feature: [Did a Single Trump NFT Purchase Change Washington’s Mind on Crypto?](https://www.coindesk.com/tech/2024/06/05/did-a-single-nft-purchase-change-washingtons-mind-on-crypto)
+- 2023: Cosmoverse 2023, panel: [Cosmos DeFi in 2024](https://www.youtube.com/watch?v=W4UwVMQeUBk)
+- 2023: Cosmoverse 2023, talk: [Quasar: The Interchain Yield Hub](https://www.youtube.com/watch?v=islUFXMkmNs)
+- 2023: The Block, news: [Polychain-backed Quasar introduces concentrated liquidity vaults on Osmosis](https://www.theblock.co/post/251382/polychain-backed-quasar-introduces-concentrated-liquidity-vaults-on-osmosis)
 - 2023: Cryptonews Podcast, episode 222: [on the Cosmos ecosystem and IBC](https://cryptonews.com/exclusives/valentin-pletnev-ceo-of-quasar-finance-on-cosmos-ecosystem-and-inter-blockchain-communication-ibc-protocol-ep-222/)
+- 2023: CoinDesk, news: [Cosmos-Based DeFi Protocol Quasar to Start Mainnet After Raising More Than $11.5M](https://www.coindesk.com/tech/2023/03/23/cosmos-based-defi-protocol-quasar-starts-mainnet-after-raising-more-than-115m)
 - 2023: Cointelegraph, opinion by me: [The Inter-Blockchain Communication Protocol will end ecosystem maximalism](https://cointelegraph.com/interview/opinion-the-inter-blockchain-communication-protocol-will-end-ecosystem-maximalism)
 - 2023: Tech Talks Daily, episode 2238: [The Story Behind DeFi Startup Quasar Finance](https://techblogwriter.co.uk/quasar-finance/)
+- 2023: CoinDesk, news: [Cosmos-Based DeFi Protocol Quasar Raises $5.4M](https://www.coindesk.com/business/2023/01/11/cosmos-based-defi-protocol-quasar-raises-54m)
+- 2023: The Block, news: [DeFi startup Quasar Finance raises $5.4 million at a $70 million valuation](https://www.theblock.co/post/200795/defi-startup-quasar-finance-raise)
 - 2022: CoinDesk, profile: [DeFi for the Masses](https://www.coindesk.com/layer2/2022/10/10/defi-for-the-masses)
 - 2022: Nasdaq, opinion by me: [Web3-Native Asset Management is Coming: Are Institutions Ready?](https://www.nasdaq.com/articles/web3-native-asset-management-is-coming:-are-institutions-ready)
 - 2022: CoinDesk at I.D.E.A.S. 2022, video: [Accessing Global Capital for Institutional DeFi Vaults](https://www.coindesk.com/video/accessing-global-capital-for-institutional-defi-vaults)
 - 2022: BlockHash, episode 285: [Valentin Pletnev, CEO of Quasar Finance](https://open.spotify.com/episode/7tKJEBxbkc7NEybcnX7DTk)
 - 2022: Fast & Crypto, video: [Valentin Pletnev, Quasar](https://www.youtube.com/watch?v=ukGnk5UYd7A)
+- 2022: Blockworks, funding round-up: [Funding Wrap: Venture Funding Remains Hot In Down Crypto Market](https://blockworks.co/news/crypto-venture-funding-stays-strong)
 
 ## Misc
 
