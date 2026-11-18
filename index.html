@@ -62,6 +62,7 @@
       "givenName": "Valentin",
       "familyName": "Pletnev",
       "url": "https://valentinpletnev.com/",
+      "email": "valeyo@mail.grokbot.com",
       "mainEntityOfPage": { "@id": "https://valentinpletnev.com/#profile" },
       "image": {
         "@type": "ImageObject",
@@ -75,9 +76,19 @@
       "jobTitle": "Head of Partnerships",
       "worksFor": { "@id": "https://valentinpletnev.com/#groom-lake" },
       "homeLocation": { "@type": "Country", "name": "United States" },
+      "award": [
+        "7th of 200, CS:GO German Championship, ESL Germany, October 2015",
+        "10th of 50, Draper University pitch day, July 2018"
+      ],
       "knowsAbout": [
+        "Asset allocation",
+        "Go-to-market strategy",
+        "Growth",
+        "Fundraising",
+        "Business development",
+        "Partnerships",
+        "Strategy",
         "Company building",
-        "Fundraising and partnerships",
         "Angel investing",
         "Digital asset infrastructure",
         "Decentralized finance"
@@ -225,7 +236,10 @@ a:hover{text-decoration-thickness:.13em}
 .hero{background:var(--blue);color:#fff;padding:clamp(4rem,14vh,9.5rem) var(--gutter) clamp(1.75rem,5vh,3rem)}
 .hero ::selection{background:#fff;color:var(--blue)}
 .hero a{color:#fff}
-.statement{max-width:15.6em;font-size:clamp(2.125rem,1.2rem + 4.2vw,4.25rem);line-height:1.1;letter-spacing:-.017em;text-wrap:balance}
+.hero-main{display:grid;grid-template-columns:minmax(0,1fr) clamp(15rem,27vw,23rem);column-gap:clamp(2rem,5vw,4.5rem);align-items:start}
+.statement{font-size:clamp(2.125rem,1rem + 3vw,3.5rem);line-height:1.1;letter-spacing:-.017em;text-wrap:balance}
+.portrait{margin:.55rem 0 0}
+.portrait img{display:block;width:100%;height:auto;aspect-ratio:1}
 .statement h1,.statement p{display:inline;margin:0;font:inherit;letter-spacing:inherit}
 .statement h1::after{content:". "}
 .hero-foot{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:.75rem 2.5rem;margin-top:clamp(3rem,11vh,7.5rem)}
@@ -242,12 +256,9 @@ main{padding-inline:var(--gutter)}
 .section p{margin:0 0 1em;text-wrap:pretty}
 .section p:last-child{margin-bottom:0}
 
-.section.lead{grid-template-rows:auto 1fr}
-.section.lead > h2{grid-column:1;grid-row:1;padding-top:.42em}
-.section.lead > .portrait{grid-column:1;grid-row:2;align-self:start;margin:1.1em 0 0;width:100%;max-width:9.5em}
-.section.lead > div{grid-column:2;grid-row:1 / span 2;max-width:none}
+.section.lead > h2{padding-top:.42em}
+.section.lead > div{max-width:none}
 .section.lead p{font-size:1.4em;line-height:1.36;max-width:26em;margin-bottom:.7em}
-.portrait img{display:block;width:100%;height:auto;aspect-ratio:1}
 
 .ledger{width:100%;border-collapse:collapse}
 .ledger th,.ledger td{padding:0 1.5em 1.15rem 0;text-align:left;vertical-align:top;font-weight:400}
@@ -266,13 +277,12 @@ main{padding-inline:var(--gutter)}
 .qa h3{margin:0;font-size:1em;line-height:inherit;font-weight:700}
 .qa p{margin:0 0 1.35em}
 
-.sources{margin:0;padding-left:1.15em;font-size:.92em}
-.sources li{padding-left:.2em;margin-bottom:.45em}
-
-.ref{font-size:.62em;line-height:0;vertical-align:super;font-variant-numeric:lining-nums;letter-spacing:.01em}
-.ref a{text-decoration:none;padding-left:.12em}
-.ref a:hover{text-decoration:underline}
 .nb{white-space:nowrap}
+.terms{margin:0}
+.terms > div{display:grid;grid-template-columns:var(--when) minmax(0,1fr);column-gap:1.5em;padding-bottom:1rem}
+.terms > div:last-child{padding-bottom:0}
+.terms dt{font-weight:700}
+.terms dd{margin:0;text-wrap:pretty}
 .note{font-style:italic}
 .after{margin-top:1.4em}
 
@@ -291,14 +301,15 @@ footer{padding:clamp(3.5rem,8vw,6rem) var(--gutter) 3rem}
 @media (max-width:47.99rem){
   .section,.foot{grid-template-columns:minmax(0,1fr);row-gap:.85rem}
   .foot > div{grid-column:1}
-  .section.lead{grid-template-rows:none}
-  .section.lead > h2,.section.lead > .portrait,.section.lead > div{grid-column:1;grid-row:auto}
+  .hero{padding-top:3.5rem}
+  .hero-foot{margin-top:2.75rem}
+  .hero-main{grid-template-columns:minmax(0,1fr)}
+  .portrait{order:-1;width:min(62vw,16rem);margin:0 0 1.75rem}
   .section.lead > h2{padding-top:0}
-  .section.lead > .portrait{margin:0 0 .4em;max-width:7.5em}
   .section.lead p{font-size:1.22em}
 }
 @media (max-width:36rem){
-  .dated li{grid-template-columns:minmax(0,1fr)}
+  .dated li,.terms > div{grid-template-columns:minmax(0,1fr)}
   .dated .when{font-style:italic}
 }
 @media print{
@@ -315,13 +326,17 @@ footer{padding:clamp(3.5rem,8vw,6rem) var(--gutter) 3rem}
 
 <header class="hero">
   <div class="wrap">
+    <div class="hero-main">
     <div class="statement">
       <h1>Valentin Pletnev</h1>
-      <p>I’m a three-time founder and angel investor, known online as valeyo. I founded Quasar Labs and raised $11.5 million as its CEO. I now lead partnerships at Groom Lake.</p>
+      <p>I’m a <span class="nb">three-time</span> founder and angel investor, known online as valeyo. I founded Quasar Labs and raised $11.5 million as its CEO. I now lead partnerships at Groom Lake.</p>
+    </div>
+    <figure class="portrait"><img src="valentin-pletnev-400.jpg" srcset="valentin-pletnev-400.jpg 400w, valentin-pletnev.jpg 800w" sizes="(max-width: 48rem) 62vw, 23rem" width="800" height="800" alt="Valentin Pletnev" fetchpriority="high"></figure>
     </div>
     <div class="hero-foot">
       <nav aria-label="On this page">
         <ul>
+          <li><a href="#work">What I do</a></li>
           <li><a href="#investments">Investments</a></li>
           <li><a href="#career">Career</a></li>
           <li><a href="#press">Press</a></li>
@@ -339,11 +354,24 @@ footer{padding:clamp(3.5rem,8vw,6rem) var(--gutter) 3rem}
 
   <section class="section lead" id="now" aria-labelledby="now-h">
     <h2 id="now-h">Now</h2>
-    <figure class="portrait"><img src="valentin-pletnev-400.jpg" srcset="valentin-pletnev-400.jpg 400w, valentin-pletnev.jpg 800w" sizes="(max-width: 48rem) 8.5rem, 12.5rem" width="400" height="400" alt="Valentin Pletnev"></figure>
     <div>
       <p>I build infrastructure companies, raise the capital and advocate them into existence.</p>
       <p>Today I lead partnerships at Groom Lake, a security and intelligence firm where I was the first investor in 2023 and have been a strategic advisor since 2024. I am also building a company in stealth in Tennessee, working on refractory metals for national security.</p>
       <p>I invest in private rounds through Valeyo Capital.</p>
+    </div>
+  </section>
+
+  <section class="section wide" id="work" aria-labelledby="work-h">
+    <h2 id="work-h">What I do</h2>
+    <div>
+      <dl class="terms">
+        <div><dt>Asset allocation</dt> <dd>I invest my own capital across private rounds and public markets, from seed to pre-IPO.</dd></div>
+        <div><dt>Go-to-market</dt> <dd>I took two products to market as CEO: Quasar in 2023 and Tower in 2025.</dd></div>
+        <div><dt>Growth</dt> <dd>Quasar grew to more than 15,000 users and $11 million in deposits. Tower passed 10,000 users in its first week.</dd></div>
+        <div><dt>Fundraising</dt> <dd>I raised $11.5 million for Quasar Labs in 2022 and 2023, from Polychain Capital, Blockchain Capital and others.</dd></div>
+        <div><dt>Business development and partnerships</dt> <dd>I lead partnerships at Groom Lake, and earlier worked on partnerships at Real Items.</dd></div>
+        <div><dt>Strategy</dt> <dd>I advise Groom Lake on strategy and advised Union Labs from 2023 to 2026. Before that I worked in technology research and advisory at Crisp Research and Atlantic Ventures.</dd></div>
+      </dl>
     </div>
   </section>
 
@@ -355,24 +383,24 @@ footer{padding:clamp(3.5rem,8vw,6rem) var(--gutter) 3rem}
           <tr role="row">
             <th role="columnheader" scope="col">Company</th>
             <th role="columnheader" scope="col">What it does</th>
-            <th role="columnheader" scope="col" class="round">Round and date</th>
+            <th role="columnheader" scope="col" class="round">Round</th>
           </tr>
         </thead>
         <tbody role="rowgroup">
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://www.spacex.com/">SpaceX</a></th>
             <td role="cell" class="what">Rockets, spacecraft and Starlink satellite internet. Went public in 2026.</td>
-            <td role="cell" class="round">December 2025 round; bought April 2026 at $90 a share</td>
+            <td role="cell" class="round">December 2025 tender offer</td>
           </tr>
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://www.circle.com/">Circle</a></th>
             <td role="cell" class="what">Issuer of the USDC stablecoin. Went public in 2025.</td>
-            <td role="cell" class="round">Series E; bought about 18 months before the June 2025 IPO, at a valuation near $4.6 billion</td>
+            <td role="cell" class="round">Series E</td>
           </tr>
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://www.saronic.com/">Saronic</a></th>
             <td role="cell" class="what">Autonomous surface vessels for naval defense.</td>
-            <td role="cell" class="round">Series D, May 2026</td>
+            <td role="cell" class="round">Series D (May 2026)</td>
           </tr>
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://antaresindustries.com/">Antares</a></th>
@@ -382,7 +410,7 @@ footer{padding:clamp(3.5rem,8vw,6rem) var(--gutter) 3rem}
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://www.valaratomics.com/">Valar Atomics</a></th>
             <td role="cell" class="what">Nuclear microreactors.</td>
-            <td role="cell" class="round">Series B, August 2026</td>
+            <td role="cell" class="round">Series B (August 2026)</td>
           </tr>
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://cfs.energy/">Commonwealth Fusion Systems</a></th>
@@ -392,7 +420,7 @@ footer{padding:clamp(3.5rem,8vw,6rem) var(--gutter) 3rem}
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://www.cusp.ai/">CuspAI</a></th>
             <td role="cell" class="what">AI for discovering new materials.</td>
-            <td role="cell" class="round">Series A, July 2026</td>
+            <td role="cell" class="round">Series A (July 2026)</td>
           </tr>
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://www.arcium.com/">Arcium</a></th>
@@ -411,13 +439,13 @@ footer{padding:clamp(3.5rem,8vw,6rem) var(--gutter) 3rem}
           </tr>
           <tr role="row">
             <th role="rowheader" scope="row">Catalyst</th>
-            <td role="cell" class="what">Cross-chain intents protocol. Acquired by LI.FI in <span class="nb">2025.<sup class="ref"><a href="#s1" aria-label="Source 1">[1]</a></sup></span></td>
+            <td role="cell" class="what">Cross-chain intents protocol. Acquired by LI.FI in 2025.</td>
             <td role="cell" class="round">Seed</td>
           </tr>
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://groomlake.io/">Groom Lake</a></th>
             <td role="cell" class="what">Intelligence, security and incident response for companies and individuals.</td>
-            <td role="cell" class="round">Friends and family, March 2023; first investor</td>
+            <td role="cell" class="round">Friends and family (March 2023)</td>
           </tr>
         </tbody>
       </table>
@@ -432,39 +460,39 @@ footer{padding:clamp(3.5rem,8vw,6rem) var(--gutter) 3rem}
           <tr role="row">
             <th role="columnheader" scope="col">Asset</th>
             <th role="columnheader" scope="col">What it is</th>
-            <th role="columnheader" scope="col" class="round">Entry</th>
+            <th role="columnheader" scope="col" class="round">Entry price</th>
           </tr>
         </thead>
         <tbody role="rowgroup">
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://hyperliquid.xyz/">Hyperliquid (HYPE)</a></th>
             <td role="cell" class="what">Decentralized perpetual futures exchange.</td>
-            <td role="cell" class="round">November 2024 at $3.25</td>
+            <td role="cell" class="round">$3.25 (November 2024)</td>
           </tr>
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://www.gamestop.com/">GameStop (GME)</a></th>
             <td role="cell" class="what">Video game retailer.</td>
-            <td role="cell" class="round">December 2020, before the squeeze</td>
+            <td role="cell" class="round">$4 (December 2020)</td>
           </tr>
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://bitcoin.org/">Bitcoin (BTC)</a></th>
             <td role="cell" class="what">Digital currency.</td>
-            <td role="cell" class="round">2016 at $800, 2018 at $6,000 and 2020 at $13,000</td>
+            <td role="cell" class="round">$800 (2016), $6,000 (2018), $13,000 (2020)</td>
           </tr>
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://ethereum.org/">Ethereum (ETH)</a></th>
             <td role="cell" class="what">Smart contract blockchain.</td>
-            <td role="cell" class="round">At $265</td>
+            <td role="cell" class="round">$265</td>
           </tr>
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://www.tsmc.com/">TSMC (TSM)</a></th>
             <td role="cell" class="what">Contract chip manufacturer.</td>
-            <td role="cell" class="round">At $48 a share</td>
+            <td role="cell" class="round">$48</td>
           </tr>
           <tr role="row">
             <th role="rowheader" scope="row"><a href="https://www.amd.com/">AMD</a></th>
             <td role="cell" class="what">Chip designer.</td>
-            <td role="cell" class="round">At $13 a share</td>
+            <td role="cell" class="round">$13</td>
           </tr>
         </tbody>
       </table>
@@ -479,21 +507,21 @@ footer{padding:clamp(3.5rem,8vw,6rem) var(--gutter) 3rem}
         <li><span class="when">Sep 2026 – now</span> <span><strong>Head of Partnerships, <a href="https://groomlake.io/">Groom Lake</a>.</strong> Intelligence, security and incident response for companies and individuals. First investor in March 2023, strategic advisor since May 2024.</span></li>
         <li><span class="when">Mar 2026 – now</span> <span><strong>Founder, company in stealth.</strong> Tennessee. Refractory metals for national security.</span></li>
         <li><span class="when">Nov 2021 – now</span> <span><strong>Valeyo Capital.</strong> Private-round angel investing, also under the name Intuition Capital.</span></li>
-        <li><span class="when">Mar 2025 – Mar 2026</span> <span><strong>Co-founder and CEO, <a href="https://www.tower.fi/">Tower</a>.</strong> The continuation of Quasar: a decentralized trading venue on Babylon’s Bitcoin staking <span class="nb">infrastructure.<sup class="ref"><a href="#s2" aria-label="Source 2">[2]</a></sup></span> More than 10,000 users and millions in deposits in the first week. Tower announced its wind-down in October <span class="nb">2025.<sup class="ref"><a href="#s3" aria-label="Source 3">[3]</a></sup></span></span></li>
+        <li><span class="when">Mar 2025 – Mar 2026</span> <span><strong>Co-founder and CEO, <a href="https://www.tower.fi/">Tower</a>.</strong> The continuation of Quasar: a decentralized trading venue on Babylon’s Bitcoin staking infrastructure. More than 10,000 users and millions in deposits in the first week. Tower announced its wind-down in October 2025.</span></li>
         <li><span class="when">Nov 2023 – Sep 2026</span> <span><strong>Strategic advisor, <a href="https://union.build/">Union Labs</a>.</strong> Zero-knowledge interoperability infrastructure connecting Ethereum, layer 2s, Cosmos chains and Solana.</span></li>
-        <li><span class="when">Nov 2021 – Mar 2025</span> <span><strong>Founder and CEO, <a href="https://quasar.fi/">Quasar Labs</a>.</strong> Cross-chain smart contract vaults: automated asset management running around the clock across multiple blockchain networks. Raised $11.5 million from Polychain Capital, Blockchain Capital and others, including a bridge round at a $70 million valuation in January <span class="nb">2023.<sup class="ref"><a href="#s4" aria-label="Source 4">[4]</a></sup></span> More than 15,000 users and $11 million in deposits. Quasar’s QSR token reached a fully diluted valuation above $250 million at its April 2024 high, based on a maximum supply of 1 billion <span class="nb">tokens.<sup class="ref"><a href="#s5" aria-label="Source 5">[5]</a></sup></span></span></li>
-        <li><span class="when">Sep – Dec 2024</span> <span><strong>Network School, first cohort.</strong> Singapore. One of 150 participants in the inaugural cohort.</span></li>
+        <li><span class="when">Nov 2021 – Mar 2025</span> <span><strong>Founder and CEO, <a href="https://quasar.fi/">Quasar Labs</a>.</strong> Cross-chain smart contract vaults: automated asset management running around the clock across multiple blockchain networks. Raised $11.5 million from Polychain Capital, Blockchain Capital and others, including a bridge round at a $70 million valuation in January 2023. More than 15,000 users and $11 million in deposits. Quasar’s QSR token reached a fully diluted valuation above $250 million at its April 2024 high, based on a maximum supply of 1 billion tokens.</span></li>
+        <li><span class="when">Sep – Dec 2024</span> <span><strong><a href="https://ns.com/">Network School</a>, first cohort.</strong> Singapore. One of 150 participants in the inaugural cohort.</span></li>
         <li><span class="when">Dec 2020 – Nov 2023</span> <span><strong><a href="https://www.atlantic-ventures.com/">Atlantic Ventures</a>, Berlin.</strong> Co-founder and blockchain lead until November 2021, then senior advisor. A research and advisory firm, where I built the emerging technology practice.</span></li>
-        <li><span class="when">Jan 2017 – Dec 2020</span> <span><strong>Analyst, Crisp Research (now Cloudflight).</strong> Kassel. Owned blockchain and distributed systems research at a German analyst firm covering cloud and enterprise infrastructure.</span></li>
+        <li><span class="when">Jan 2017 – Dec 2020</span> <span><strong>Analyst, Crisp Research (now <a href="https://www.cloudflight.io/">Cloudflight</a>).</strong> Kassel. Owned blockchain and distributed systems research at a German analyst firm covering cloud and enterprise infrastructure.</span></li>
         <li><span class="when">Jul 2018 – Aug 2019</span> <span><strong>AGENC1 and Real Items.</strong> San Francisco Bay Area. Blockchain consultant, then partnerships and head of product for NFTs.</span></li>
         <li><span class="when">2018</span> <span><strong>Draper University.</strong> HERO Program.</span></li>
       </ol>
-      <p class="note after">Roles and dates match my LinkedIn <span class="nb">profile.<sup class="ref"><a href="#s6" aria-label="Source 6">[6]</a></sup></span></p>
+      <p class="note after">Roles and dates match my <a href="https://www.linkedin.com/in/valentin-pletnev/">LinkedIn profile</a>.</p>
     </div>
   </section>
 
   <section class="section wide" id="press" aria-labelledby="press-h">
-    <h2 id="press-h">Press and writing</h2>
+    <h2 id="press-h">Some press and writing</h2>
     <div>
       <ul class="dated">
         <li><span class="when">2024</span> <span>The Interop, interview: <a href="https://www.ivoox.com/en/why-cosmos-should-embrace-evm-and-bitcoin-defi-audios-mp3_rf_136121487_1.html">Why Cosmos Should Embrace EVM and Bitcoin DeFi</a></span></li>
@@ -507,6 +535,20 @@ footer{padding:clamp(3.5rem,8vw,6rem) var(--gutter) 3rem}
         <li><span class="when">2022</span> <span>BlockHash, episode 285: <a href="https://open.spotify.com/episode/7tKJEBxbkc7NEybcnX7DTk">Valentin Pletnev, CEO of Quasar Finance</a></span></li>
         <li><span class="when">2022</span> <span>Fast &amp; Crypto, video: <a href="https://www.youtube.com/watch?v=ukGnk5UYd7A">Valentin Pletnev, Quasar</a></span></li>
       </ul>
+    </div>
+  </section>
+
+  <section class="section wide" id="misc" aria-labelledby="misc-h">
+    <h2 id="misc-h">Misc</h2>
+    <div>
+      <dl class="terms">
+        <div><dt>O-1A visa</dt> <dd>I received an O-1A visa for the United States, the category for individuals with extraordinary ability.</dd></div>
+        <div><dt>Esports</dt> <dd>I placed 7th of 200 at ESL’s German championship in Counter-Strike: Global Offensive in October&nbsp;2015, and was the youngest player to qualify for the playoffs that season.</dd></div>
+        <div><dt>Pitching</dt> <dd>I placed 10th of 50 at Draper University’s pitch day in July&nbsp;2018. <a class="nb" href="https://youtu.be/cebx_H4LPTE">Watch the pitch</a>.</dd></div>
+        <div><dt>Travel</dt> <dd>I have visited more than 45 countries and lived as a nomad for five years.</dd></div>
+        <div><dt>Interests</dt> <dd>I have an affinity for cars, guns and meat, and I’m a subpar goofy snowboarder.</dd></div>
+        <div><dt>Introductions</dt> <dd>I love connecting people in any shape or form. If you want to be connected to someone I know, just <a class="nb" href="#contact">hit me up</a>.</dd></div>
+      </dl>
     </div>
   </section>
 
@@ -527,33 +569,24 @@ footer{padding:clamp(3.5rem,8vw,6rem) var(--gutter) 3rem}
       <p>valeyo is the online name of Valentin Pletnev. He posts as @valeyo on X and invests through Valeyo Capital.</p>
       <h3>What does Valentin Pletnev do now?</h3>
       <p>He is Head of Partnerships at Groom Lake, a security and intelligence firm where he was the first investor. He is also building a company in stealth in Tennessee and invests in private rounds through Valeyo Capital.</p>
+      <h3>What is Valentin Pletnev good at?</h3>
+      <p>Asset allocation, go-to-market, growth, fundraising, business development and partnerships, and strategy. He raised $11.5 million for Quasar Labs, grew it to more than 15,000 users, leads partnerships at Groom Lake and invests his own capital across private rounds and public markets.</p>
       <h3>What has Valentin Pletnev invested in?</h3>
       <p>Through Valeyo Capital he has invested in private rounds of SpaceX, Circle, Saronic, Antares, Valar Atomics, Commonwealth Fusion Systems, CuspAI, Arcium, MegaETH, Yield Basis, Catalyst and Groom Lake. His notable public market investments include Bitcoin, first bought in 2016, Ethereum, GameStop, Hyperliquid, TSMC and AMD.</p>
       <h3>What was Quasar, and what happened to it?</h3>
       <p>Quasar Labs built cross-chain smart contract vaults for automated asset management. It raised $11.5 million in 2022 and 2023. In 2025 the team continued as Tower, a trading venue on Babylon’s Bitcoin staking infrastructure, which announced its wind-down in October 2025.</p>
+      <h3>Does Valentin Pletnev make introductions?</h3>
+      <p>Yes. He loves connecting people and invites anyone who wants an introduction to someone he knows to contact him by email, on X or on LinkedIn.</p>
       <h3>How can I contact Valentin Pletnev?</h3>
-      <p>Send a direct message on X at @valeyo, or connect on LinkedIn.</p>
-    </div>
-  </section>
-
-  <section class="section" id="sources" aria-labelledby="sources-h">
-    <h2 id="sources-h">Sources</h2>
-    <div>
-      <ol class="sources">
-        <li id="s1">LI.FI, <a href="https://li.fi/knowledge-hub/li-fi-acquires-catalyst-to-accelerate-the-future-of-intents">LI.FI Acquires Catalyst To Accelerate The Future Of Intents</a>, 13 February 2025.</li>
-        <li id="s2">Quasar, <a href="https://medium.com/quasarfi/quasar-migration-update-4395fa127353">Quasar Migration Update</a>, February 2025.</li>
-        <li id="s3">Tower on X, <a href="https://x.com/tower">Tower of Babylon: A Chapter Closed</a>, 7 October 2025.</li>
-        <li id="s4">The Block, <a href="https://www.theblock.co/post/200795/defi-startup-quasar-finance-raise">DeFi startup Quasar Finance raises $5.4 million at a $70 million valuation</a>, 11 January 2023.</li>
-        <li id="s5">CoinGecko, <a href="https://www.coingecko.com/coins/quasar-2">Quasar (QSR)</a>: all-time high of $0.27 on 8 April 2024 and a maximum supply of 1 billion tokens.</li>
-        <li id="s6">LinkedIn, <a href="https://www.linkedin.com/in/valentin-pletnev/">Valentin Pletnev</a>.</li>
-      </ol>
+      <p>Email valeyo@mail.grokbot.com, send a direct message on X at @valeyo, or connect on LinkedIn.</p>
     </div>
   </section>
 
   <section class="section" id="contact" aria-labelledby="contact-h">
     <h2 id="contact-h">Contact</h2>
     <div>
-      <p>Send me a direct message on X at <a href="https://x.com/valeyo" rel="me">@valeyo</a>, or connect on <a href="https://www.linkedin.com/in/valentin-pletnev/" rel="me">LinkedIn</a>.</p>
+      <p>Email me at <a href="mailto:valeyo@mail.grokbot.com">valeyo@mail.grokbot.com</a>, send me a direct message on X at <a href="https://x.com/valeyo" rel="me">@valeyo</a>, or connect on <a href="https://www.linkedin.com/in/valentin-pletnev/" rel="me">LinkedIn</a>.</p>
+      <p>If you want an introduction to someone I know, ask me.</p>
     </div>
   </section>
 

@@ -12,39 +12,49 @@ Key facts:
 - Official website: https://valentinpletnev.com/
 - X: https://x.com/valeyo
 - LinkedIn: https://www.linkedin.com/in/valentin-pletnev/
+- Email: valeyo@mail.grokbot.com
 - Headshot: https://valentinpletnev.com/valentin-pletnev.jpg
 
 Now:
 
 Valentin Pletnev leads partnerships at Groom Lake, a security and intelligence firm where he was the first investor in 2023 and has been a strategic advisor since 2024. He is also building a company in stealth in Tennessee, working on refractory metals for national security. He invests in private rounds through Valeyo Capital.
 
+What he does:
+
+- Asset allocation: He invests his own capital across private rounds and public markets, from seed to pre-IPO.
+- Go-to-market: He took two products to market as CEO: Quasar in 2023 and Tower in 2025.
+- Growth: Quasar grew to more than 15,000 users and $11 million in deposits. Tower passed 10,000 users in its first week.
+- Fundraising: He raised $11.5 million for Quasar Labs in 2022 and 2023, from Polychain Capital, Blockchain Capital and others.
+- Business development and partnerships: He leads partnerships at Groom Lake, and earlier worked on partnerships at Real Items.
+- Strategy: He advises Groom Lake on strategy and advised Union Labs from 2023 to 2026. Before that he worked in technology research and advisory at Crisp Research and Atlantic Ventures.
+
 Investments:
 
-| Company | What it does | Round and date |
+| Company | What it does | Round |
 | --- | --- | --- |
-| SpaceX | Rockets, spacecraft and Starlink satellite internet. Went public in 2026. | December 2025 round; bought April 2026 at $90 a share |
-| Circle | Issuer of the USDC stablecoin. Went public in 2025. | Series E; bought about 18 months before the June 2025 IPO, at a valuation near $4.6 billion |
-| Saronic | Autonomous surface vessels for naval defense. | Series D, May 2026 |
+| SpaceX | Rockets, spacecraft and Starlink satellite internet. Went public in 2026. | December 2025 tender offer |
+| Circle | Issuer of the USDC stablecoin. Went public in 2025. | Series E |
+| Saronic | Autonomous surface vessels for naval defense. | Series D (May 2026) |
 | Antares | Nuclear microreactors for defense and space. | Series C |
-| Valar Atomics | Nuclear microreactors. | Series B, August 2026 |
+| Valar Atomics | Nuclear microreactors. | Series B (August 2026) |
 | Commonwealth Fusion Systems | Fusion energy. | Series B |
-| CuspAI | AI for discovering new materials. | Series A, July 2026 |
+| CuspAI | AI for discovering new materials. | Series A (July 2026) |
 | Arcium | Confidential computing network. | Series A |
 | MegaETH | Real-time Ethereum layer 2. | Seed |
 | Yield Basis | Bitcoin yield protocol built on Curve. | Seed |
 | Catalyst | Cross-chain intents protocol. Acquired by LI.FI in 2025. | Seed |
-| Groom Lake | Intelligence, security and incident response for companies and individuals. | Friends and family, March 2023; first investor |
+| Groom Lake | Intelligence, security and incident response for companies and individuals. | Friends and family (March 2023) |
 
 Notable public market investments (values rounded):
 
-| Asset | What it is | Entry |
+| Asset | What it is | Entry price |
 | --- | --- | --- |
-| Hyperliquid (HYPE) | Decentralized perpetual futures exchange. | November 2024 at $3.25 |
-| GameStop (GME) | Video game retailer. | December 2020, before the squeeze |
-| Bitcoin (BTC) | Digital currency. | 2016 at $800, 2018 at $6,000 and 2020 at $13,000 |
-| Ethereum (ETH) | Smart contract blockchain. | At $265 |
-| TSMC (TSM) | Contract chip manufacturer. | At $48 a share |
-| AMD | Chip designer. | At $13 a share |
+| Hyperliquid (HYPE) | Decentralized perpetual futures exchange. | $3.25 (November 2024) |
+| GameStop (GME) | Video game retailer. | $4 (December 2020) |
+| Bitcoin (BTC) | Digital currency. | $800 (2016), $6,000 (2018), $13,000 (2020) |
+| Ethereum (ETH) | Smart contract blockchain. | $265 |
+| TSMC (TSM) | Contract chip manufacturer. | $48 |
+| AMD | Chip designer. | $13 |
 
 Career, most recent first:
 
@@ -60,6 +70,15 @@ Career, most recent first:
 - Jul 2018 – Aug 2019: AGENC1 and Real Items. San Francisco Bay Area. Blockchain consultant, then partnerships and head of product for NFTs.
 - 2018: Draper University. HERO Program.
 
+Misc:
+
+- O-1A visa: He received an O-1A visa for the United States, the category for individuals with extraordinary ability.
+- Esports: He placed 7th of 200 at ESL's German championship in Counter-Strike: Global Offensive in October 2015, and was the youngest player to qualify for the playoffs that season.
+- Pitching: He placed 10th of 50 at Draper University's pitch day in July 2018. Video of the pitch: https://youtu.be/cebx_H4LPTE
+- Travel: He has visited more than 45 countries and lived as a nomad for five years.
+- Interests: He has an affinity for cars, guns and meat, and is a subpar goofy snowboarder.
+- Introductions: He loves connecting people in any shape or form. Anyone who wants to be connected to someone he knows can contact him.
+
 Short bio:
 
 Valentin Pletnev, known online as valeyo, is a three-time founder and angel investor based in the United States. He founded Quasar Labs in 2021 and as its CEO raised $11.5 million from investors including Polychain Capital and Blockchain Capital. In 2025 the team continued as Tower, a trading venue built on Babylon's Bitcoin staking infrastructure. He now leads partnerships at Groom Lake, a security and intelligence firm where he was the first investor, and is building a company in stealth in Tennessee. Through Valeyo Capital he has invested in private rounds of SpaceX, Circle, Saronic, Antares, Valar Atomics and Commonwealth Fusion Systems, among others. Earlier he co-founded Atlantic Ventures, a research and advisory firm in Berlin.
@@ -69,15 +88,17 @@ Common questions:
 - Who is Valentin Pletnev? Valentin Pletnev, known online as valeyo, is a three-time founder and angel investor based in the United States. He founded Quasar Labs, raised $11.5 million as its CEO, and now leads partnerships at Groom Lake.
 - Who is valeyo? valeyo is the online name of Valentin Pletnev. He posts as @valeyo on X and invests through Valeyo Capital.
 - What does Valentin Pletnev do now? He is Head of Partnerships at Groom Lake, a security and intelligence firm where he was the first investor. He is also building a company in stealth in Tennessee and invests in private rounds through Valeyo Capital.
+- What is Valentin Pletnev good at? Asset allocation, go-to-market, growth, fundraising, business development and partnerships, and strategy. He raised $11.5 million for Quasar Labs, grew it to more than 15,000 users, leads partnerships at Groom Lake and invests his own capital across private rounds and public markets.
 - What has Valentin Pletnev invested in? Through Valeyo Capital he has invested in private rounds of SpaceX, Circle, Saronic, Antares, Valar Atomics, Commonwealth Fusion Systems, CuspAI, Arcium, MegaETH, Yield Basis, Catalyst and Groom Lake. His notable public market investments include Bitcoin, first bought in 2016, Ethereum, GameStop, Hyperliquid, TSMC and AMD.
 - What was Quasar, and what happened to it? Quasar Labs built cross-chain smart contract vaults for automated asset management. It raised $11.5 million in 2022 and 2023. In 2025 the team continued as Tower, a trading venue on Babylon's Bitcoin staking infrastructure, which announced its wind-down in October 2025.
-- How can I contact Valentin Pletnev? Send a direct message on X at @valeyo, or connect on LinkedIn.
+- Does Valentin Pletnev make introductions? Yes. He loves connecting people and invites anyone who wants an introduction to someone he knows to contact him by email, on X or on LinkedIn.
+- How can I contact Valentin Pletnev? Email valeyo@mail.grokbot.com, send a direct message on X at @valeyo, or connect on LinkedIn.
 
 ## Pages
 
 - [Valentin Pletnev](https://valentinpletnev.com/): Official profile with investments, career, press, short bio and contact details.
 
-## Press and writing
+## Some press and writing
 
 - [Why Cosmos Should Embrace EVM and Bitcoin DeFi](https://www.ivoox.com/en/why-cosmos-should-embrace-evm-and-bitcoin-defi-audios-mp3_rf_136121487_1.html): The Interop, interview, 20 November 2024.
 - [Did a Single Trump NFT Purchase Change Washington's Mind on Crypto?](https://www.coindesk.com/tech/2024/06/05/did-a-single-nft-purchase-change-washingtons-mind-on-crypto): CoinDesk, feature, 5 June 2024.
@@ -89,12 +110,3 @@ Common questions:
 - [Accessing Global Capital for Institutional DeFi Vaults](https://www.coindesk.com/video/accessing-global-capital-for-institutional-defi-vaults): CoinDesk at I.D.E.A.S. 2022, video.
 - [Valentin Pletnev, CEO of Quasar Finance](https://open.spotify.com/episode/7tKJEBxbkc7NEybcnX7DTk): BlockHash, episode 285, 19 October 2022.
 - [Valentin Pletnev, Quasar](https://www.youtube.com/watch?v=ukGnk5UYd7A): Fast & Crypto, video, 2022.
-
-## Sources
-
-- [LI.FI Acquires Catalyst To Accelerate The Future Of Intents](https://li.fi/knowledge-hub/li-fi-acquires-catalyst-to-accelerate-the-future-of-intents): LI.FI, 13 February 2025.
-- [Quasar Migration Update](https://medium.com/quasarfi/quasar-migration-update-4395fa127353): Quasar, February 2025. Source for the move to Tower.
-- [Tower on X](https://x.com/tower): "Tower of Babylon: A Chapter Closed", 7 October 2025. Source for Tower's wind-down.
-- [DeFi startup Quasar Finance raises $5.4 million at a $70 million valuation](https://www.theblock.co/post/200795/defi-startup-quasar-finance-raise): The Block, 11 January 2023. Source for the funding rounds and the $70 million valuation.
-- [Quasar (QSR)](https://www.coingecko.com/coins/quasar-2): CoinGecko. All-time high of $0.27 on 8 April 2024 and a maximum supply of 1 billion tokens. Source for the token's fully diluted valuation.
-- [Valentin Pletnev on LinkedIn](https://www.linkedin.com/in/valentin-pletnev/): Roles and dates.
