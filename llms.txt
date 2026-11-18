@@ -96,7 +96,8 @@ Common questions:
 
 ## Pages
 
-- [Valentin Pletnev](https://valentinpletnev.com/): Official profile with investments, career, press, short bio and contact details.
+- [Valentin Pletnev, Markdown](https://valentinpletnev.com/index.md): The full profile page as Markdown, with investments, career, press, short bio and contact details.
+- [Valentin Pletnev, web page](https://valentinpletnev.com/): The same profile as a web page.
 
 ## Some press and writing
 

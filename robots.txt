@@ -6,4 +6,19 @@ User-agent: *
 Allow: /
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
+# The same, stated by name for AI search crawlers, on-demand fetchers and training crawlers.
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
 Sitemap: https://valentinpletnev.com/sitemap.xml
