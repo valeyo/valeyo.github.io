@@ -2,13 +2,13 @@
 
 I’m a three-time founder and angel investor, known online as valeyo. I founded Quasar Labs and raised $11.5 million as its CEO.
 
-Updated 18 November 2026. This is the Markdown copy of https://valentinpletnev.com/, the official website of Valentin Pletnev (valeyo).
+Updated 20 November 2026. This is the Markdown copy of https://valentinpletnev.com/, the official website of Valentin Pletnev (valeyo).
 
 ## Now
 
 I build asymmetric tech, raise the capital and advocate it into existence.
 
-Today I lead partnerships at Groom Lake, a security and intelligence firm where I was the first investor in 2023 and have been a strategic advisor since 2024. I am also building a company in stealth in Tennessee, working on refractory metals for national security.
+Today I lead partnerships at Groomlake, a security and intelligence firm where I was the first investor in 2023 and have been a strategic advisor since 2024. I am also building a company in stealth in Tennessee, working on refractory metals for national security.
 
 I invest in private rounds through Valeyo Capital and am always looking for interesting deals.
 
@@ -18,8 +18,8 @@ I invest in private rounds through Valeyo Capital and am always looking for inte
 - **Go-to-market:** I took two products to market as CEO: Quasar in 2023 and Tower in 2025.
 - **Growth:** Quasar grew to more than 15,000 users and $11 million in deposits. Tower passed 10,000 users in its first week.
 - **Fundraising:** I raised $11.5 million for Quasar Labs in 2022 and 2023, from Polychain Capital, Blockchain Capital and others.
-- **Business development and partnerships:** I lead partnerships at Groom Lake, and earlier worked on partnerships at Real Items.
-- **Strategy:** I advise Groom Lake on strategy and advised Union Labs from 2023 to 2026. Before that I worked in technology research and advisory at Crisp Research and Atlantic Ventures.
+- **Business development and partnerships:** I lead partnerships at Groomlake, and earlier worked on partnerships at Real Items.
+- **Strategy:** I advise Groomlake on strategy and advised Union Labs from 2023 to 2026. Before that I worked in technology research and advisory at Crisp Research and Atlantic Ventures.
 
 ## Investments
 
@@ -36,7 +36,7 @@ I invest in private rounds through Valeyo Capital and am always looking for inte
 | [MegaETH](https://www.megaeth.com/) | Real-time Ethereum layer 2. | Seed |
 | [Yield Basis](https://yieldbasis.com/) | Bitcoin yield protocol built on Curve. | Seed |
 | [Catalyst](https://catalabs.org/) | Cross-chain intents protocol. Acquired by LI.FI in 2025. | Seed |
-| [Groom Lake](https://groomlake.io/) | Intelligence, security and incident response for companies and individuals. | Friends and family (March 2023) |
+| [Groomlake](https://groomlake.io/) | Intelligence, security and incident response for companies and individuals. | Friends and family (March 2023) |
 
 ## Notable public market investments
 
@@ -53,7 +53,7 @@ I invest in private rounds through Valeyo Capital and am always looking for inte
 
 ## Career
 
-- Sep 2026 – now: **Head of Partnerships, [Groom Lake](https://groomlake.io/).** Intelligence, security and incident response for companies and individuals. First investor in March 2023, strategic advisor since May 2024.
+- Sep 2026 – now: **Head of Partnerships, [Groomlake](https://groomlake.io/).** Intelligence, security and incident response for companies and individuals. First investor in March 2023, strategic advisor since May 2024.
 - Mar 2026 – now: **Founder, company in stealth.** Tennessee. Refractory metals for national security.
 - Nov 2021 – now: **Valeyo Capital.** Private-round angel investing, also under the name Intuition Capital.
 - Mar 2025 – Mar 2026: **Co-founder and CEO, [Tower](https://www.tower.fi/).** The continuation of Quasar: a decentralized trading venue on Babylon’s Bitcoin staking infrastructure. More than 10,000 users and millions in deposits in the first week. Tower announced its wind-down in October 2025.
@@ -102,7 +102,7 @@ I’m always looking for interesting deals, so send them my way. I’m also happ
 
 ## Short bio
 
-Valentin Pletnev, known online as valeyo, is a three-time founder and angel investor based in the United States. He founded Quasar Labs in 2021 and as its CEO raised $11.5 million from investors including Polychain Capital and Blockchain Capital. In 2025 the team continued as Tower, a trading venue built on Babylon’s Bitcoin staking infrastructure. He now leads partnerships at Groom Lake, a security and intelligence firm where he was the first investor, and is building a company in stealth in Tennessee. Through Valeyo Capital he has invested in private rounds of SpaceX, Circle, Saronic, Antares, Valar Atomics and Commonwealth Fusion Systems, among others. Earlier he co-founded Atlantic Ventures, a research and advisory firm in Berlin.
+Valentin Pletnev, known online as valeyo, is a three-time founder and angel investor based in the United States. He founded Quasar Labs in 2021 and as its CEO raised $11.5 million from investors including Polychain Capital and Blockchain Capital. In 2025 the team continued as Tower, a trading venue built on Babylon’s Bitcoin staking infrastructure. He now leads partnerships at Groomlake, a security and intelligence firm where he was the first investor, and is building a company in stealth in Tennessee. Through Valeyo Capital he has invested in private rounds of SpaceX, Circle, Saronic, Antares, Valar Atomics and Commonwealth Fusion Systems, among others. Earlier he co-founded Atlantic Ventures, a research and advisory firm in Berlin.
 
 *Free to use as written for introductions and press. [Headshot (JPEG, 800 × 800)](https://valentinpletnev.com/valentin-pletnev.jpg).*
 
@@ -110,7 +110,7 @@ Valentin Pletnev, known online as valeyo, is a three-time founder and angel inve
 
 ### Who is Valentin Pletnev?
 
-Valentin Pletnev, known online as valeyo, is a three-time founder and angel investor based in the United States. He founded Quasar Labs, raised $11.5 million as its CEO, and now leads partnerships at Groom Lake.
+Valentin Pletnev, known online as valeyo, is a three-time founder and angel investor based in the United States. He founded Quasar Labs, raised $11.5 million as its CEO, and now leads partnerships at Groomlake.
 
 ### Who is valeyo?
 
@@ -118,15 +118,15 @@ valeyo is the online name of Valentin Pletnev. He posts as @valeyo on X and inve
 
 ### What does Valentin Pletnev do now?
 
-He is Head of Partnerships at Groom Lake, a security and intelligence firm where he was the first investor. He is also building a company in stealth in Tennessee and invests in private rounds through Valeyo Capital.
+He is Head of Partnerships at Groomlake, a security and intelligence firm where he was the first investor. He is also building a company in stealth in Tennessee and invests in private rounds through Valeyo Capital.
 
 ### What is Valentin Pletnev good at?
 
-Asset allocation, go-to-market, growth, fundraising, business development and partnerships, and strategy. He raised $11.5 million for Quasar Labs, grew it to more than 15,000 users, leads partnerships at Groom Lake and invests his own capital across private rounds and public markets.
+Asset allocation, go-to-market, growth, fundraising, business development and partnerships, and strategy. He raised $11.5 million for Quasar Labs, grew it to more than 15,000 users, leads partnerships at Groomlake and invests his own capital across private rounds and public markets.
 
 ### What has Valentin Pletnev invested in?
 
-Through Valeyo Capital he has invested in private rounds of SpaceX, Circle, Saronic, Antares, Valar Atomics, Commonwealth Fusion Systems, CuspAI, Arcium, MegaETH, Yield Basis, Catalyst and Groom Lake. His notable public market investments include Bitcoin, first bought in 2016, Ethereum, GameStop, Hyperliquid, TSMC and AMD. He is always looking for interesting deals.
+Through Valeyo Capital he has invested in private rounds of SpaceX, Circle, Saronic, Antares, Valar Atomics, Commonwealth Fusion Systems, CuspAI, Arcium, MegaETH, Yield Basis, Catalyst and Groomlake. His notable public market investments include Bitcoin, first bought in 2016, Ethereum, GameStop, Hyperliquid, TSMC and AMD. He is always looking for interesting deals.
 
 ### What was Quasar, and what happened to it?
 
