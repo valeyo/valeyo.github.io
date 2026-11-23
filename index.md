@@ -2,7 +2,7 @@
 
 I’m a three-time founder and angel investor, known online as valeyo. I founded Quasar Labs and raised $11.5 million as its CEO.
 
-Updated 20 November 2026. This is the Markdown copy of https://valentinpletnev.com/, the official website of Valentin Pletnev (valeyo).
+Updated 22 November 2026. This is the Markdown copy of https://valentinpletnev.com/, the official website of Valentin Pletnev (valeyo).
 
 ## Now
 
@@ -87,12 +87,12 @@ I invest in private rounds through Valeyo Capital and am always looking for inte
 
 ## Misc
 
-- **O-1A visa:** I received an O-1A visa for the United States, the category for individuals with extraordinary ability.
-- **Esports:** I ranked 7th with my team in ESL’s 2015 German championship in Counter-Strike: Global Offensive, out of 200 qualified teams and 2,000 that applied. I was the youngest player to qualify for the playoffs that season.
-- **Pitching:** I placed 10th of 50 at [Draper University](https://www.draperuniversity.com/)’s pitch day in July 2018.
-- **Travel:** I have visited more than 45 countries and lived as a nomad for five years.
-- **Interests:** I have an affinity for cars, guns and meat, and I’m a subpar goofy snowboarder.
-- **Introductions:** I love connecting people in any shape or form. If you want to be connected to someone I know, just hit me up.
+- **O-1A visa:** Received an O-1A visa for the United States, the category for individuals with extraordinary ability.
+- **Esports:** Ranked 7th with my team in ESL’s 2015 German championship in Counter-Strike: Global Offensive, out of 200 qualified teams and 2,000 that applied. Youngest player to qualify for the playoffs that season.
+- **Pitching:** Placed 10th of 50 at [Draper University](https://www.draperuniversity.com/)’s pitch day in July 2018.
+- **Travel:** Visited more than 45 countries and lived as a nomad for five years.
+- **Interests:** Affinity for cars, guns and meat; subpar goofy snowboarder.
+- **Introductions:** Love connecting people in any shape or form. If you want to be connected to someone I know, just hit me up.
 
 ## Contact
 
