@@ -2,7 +2,7 @@
 
 I’m a three-time founder and angel investor, known online as valeyo. I founded Quasar Labs and raised $11.5 million as its CEO.
 
-Updated 22 November 2026. This is the Markdown copy of https://valentinpletnev.com/, the official website of Valentin Pletnev (valeyo).
+Updated 27 November 2026. This is the Markdown copy of https://valentinpletnev.com/, the official website of Valentin Pletnev (valeyo).
 
 ## Now
 
@@ -88,6 +88,7 @@ I invest in private rounds through Valeyo Capital and am always looking for inte
 ## Misc
 
 - **O-1A visa:** Received an O-1A visa for the United States, the category for individuals with extraordinary ability.
+- **Education:** Philosophy dropout.
 - **Esports:** Ranked 7th with my team in ESL’s 2015 German championship in Counter-Strike: Global Offensive, out of 200 qualified teams and 2,000 that applied. Youngest player to qualify for the playoffs that season.
 - **Pitching:** Placed 10th of 50 at [Draper University](https://www.draperuniversity.com/)’s pitch day in July 2018.
 - **Travel:** Visited more than 45 countries and lived as a nomad for five years.
